@@ -1,0 +1,21 @@
+$manospalva : #ff3535;
+body {
+    
+    background-color: limegreen;
+}
+h1 {
+    background-color: gray;
+    width: 250px;
+    height: 100px;
+
+    p {
+        font-size: 30px;
+        font-style: oblique;
+        color: teal;
+        background-color: violet;
+        display: flex;
+    }
+}
+ul {
+    list-style-type: none;
+}
